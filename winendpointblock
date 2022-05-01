@@ -81,10 +81,10 @@
 0.0.0.0	tile-service.weather.microsoft.com	
 0.0.0.0	tsfe.trafficshaping.dsp.mp.microsoft.com	
 0.0.0.0	v10.vortex-win.data.microsoft.com	
-0.0.0.0	wallet.microsoft.com	
-0.0.0.0	watson.telemetry.microsoft.com	
-0.0.0.0	wdcp.microsoft.akadns.net	
-0.0.0.0	wildcard.twimg.com	
+0.0.0.0		wallet.microsoft.com	
+0.0.0.0		watson.telemetry.microsoft.com	
+0.0.0.0		wdcp.microsoft.akadns.net	
+0.0.0.0		wildcard.twimg.com	
 0.0.0.0 	stats.g.doubleclick.net	
 0.0.0.0 	dmd.metaservices.microsoft.com	
 # 0.0.0.0 	wdcp.microsoft.com	
@@ -109,9 +109,9 @@
 0.0.0.0 	dev.virtualearth.net	
 0.0.0.0 	ecn.dev.virtualearth.net	
 0.0.0.0 	ssl.bing.com	
-# 0.0.0.0 	*login.live.com	
-0.0.0.0	edge.activity.windows.com	
-0.0.0.0	edge.microsoft.com	
+# 0.0.0.0 	*.login.live.com	
+0.0.0.0		edge.activity.windows.com	
+0.0.0.0		edge.microsoft.com	
 0.0.0.0 	msedge.api.cdp.microsoft.com	
 # 0.0.0.0 	go.microsoft.com/fwlink/	
 0.0.0.0 	*displaycatalog.mp.microsoft.com	
@@ -139,7 +139,7 @@
 0.0.0.0 	*.smartscreen-prod.microsoft.com	
 0.0.0.0 	*.smartscreen.microsoft.com	
 0.0.0.0 	checkappexec.microsoft.com	
-0.0.0.0	arc.msn.com*	
+0.0.0.0		arc.msn.com*	
 0.0.0.0 	mucp.api.account.microsoft.com	
 0.0.0.0 	*.prod.do.dsp.mp.microsoft.com	
 0.0.0.0 	emdl.ws.microsoft.com	
@@ -153,15 +153,15 @@
 0.0.0.0 	storecatalogrevocation.storequality.microsoft.cm	
 0.0.0.0 	officeclient.microsoft.com	
 0.0.0.0 	1storecatalogrevocation.storequality.microsoft.com	
-0.0.0.0	blob.weather.microsoft.com	
-0.0.0.0	cdn.onenote.net/*	
-0.0.0.0	*.telecommand.telemetry.microsoft.com	
-0.0.0.0	watson.*.microsoft.com	
-0.0.0.0	*maps.windows.com	
-0.0.0.0	*ow1.res.office365.com	
-0.0.0.0	*g.live.com	
-0.0.0.0	*smartscreen-prod.microsoft.com	
-0.0.0.0	*smartscreen.microsoft.com
+0.0.0.0		blob.weather.microsoft.com	
+0.0.0.0		cdn.onenote.net/*	
+0.0.0.0		*.telecommand.telemetry.microsoft.com	
+0.0.0.0		watson.*.microsoft.com	
+0.0.0.0		*.maps.windows.com	
+0.0.0.0		*.ow1.res.office365.com	
+0.0.0.0		*.g.live.com	
+0.0.0.0		*.smartscreen-prod.microsoft.com	
+0.0.0.0		*.smartscreen.microsoft.com
 		
 		
 		
