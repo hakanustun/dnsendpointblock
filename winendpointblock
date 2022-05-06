@@ -162,6 +162,8 @@
 0.0.0.0		*.g.live.com	
 0.0.0.0		*.smartscreen-prod.microsoft.com	
 0.0.0.0		*.smartscreen.microsoft.com
+0.0.0.0		*.googlevideo.com
+0.0.0.0		*.googlevideo.*
 		
 		
 		
