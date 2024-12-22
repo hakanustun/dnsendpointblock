@@ -1,0 +1,6 @@
+sastv.samsungqbe.com
+scs.samsungqbe.com
+gld.push.samsungosp.com
+_xmpp-client._tcp.scs.samsungqbe.com
+lcprd1.samsungcloudsolution.net
+osb-mc-v2.samsungqbe.com
