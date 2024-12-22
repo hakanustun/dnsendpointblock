@@ -4,3 +4,6 @@ gld.push.samsungosp.com
 _xmpp-client._tcp.scs.samsungqbe.com
 lcprd1.samsungcloudsolution.net
 osb-mc-v2.samsungqbe.com
+sluk.samsungcloudprint.com
+sluk.samsungcloudprint.com.local
+time.samsungcloudsolution.com
